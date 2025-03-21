@@ -1,0 +1,13 @@
+.nav {
+  ul {
+    display: flex;
+    gap: 2.93rem;
+    a {
+      font-family: $font-family;
+      font-weight: 500;
+      font-size: 0.875rem;
+      color: #fff;
+      letter-spacing: .5px;
+    }
+  }
+}

@@ -27,9 +27,9 @@
         </nav>
 
         <button class="mobile-btn">
-          <span>-</span>
-          <span>-</span>
-          <span>-</span>
+          <span></span>
+          <span></span>
+          <span></span>
         </button>
       </div>
     </div> 
