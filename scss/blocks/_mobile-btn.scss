@@ -1,0 +1,9 @@
+.mobile-btn {
+  display: grid;
+  gap: 5px;
+  * {
+    background: #fff;
+    width: 25px;
+    height: 3px;
+  }
+}

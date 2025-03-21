@@ -1,0 +1,12 @@
+@import './default/normalize';
+
+@import './default/fonts';
+@import './default/reset';
+@import './default/vars';
+@import './default/container';
+
+@import './blocks/mobile-btn';
+
+body {
+  background: #141414;
+}
